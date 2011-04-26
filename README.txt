@@ -1,4 +1,4 @@
-god
+thelord
     by Tom Preston-Werner
        Kevin Clark (kqueue/netlink support)
        
